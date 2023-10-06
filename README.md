@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple banking application that allows users to create accounts, deposit, withdraw and transfer funds between accounts.
+This is a DEMO simple banking application that allows users to create accounts, deposit, withdraw and transfer funds between accounts.
 
 ## Docker Image
 
