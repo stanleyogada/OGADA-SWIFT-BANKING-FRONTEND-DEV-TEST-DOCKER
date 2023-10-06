@@ -4,6 +4,14 @@
 
 This is a simple banking application that allows users to create accounts, deposit, withdraw and transfer funds between accounts.
 
+## Docker Image
+
+To pull the docker image, run the following command and run manually on your machine
+
+```bash
+docker pull chineduogada/ogada-swift-banking-frontend:1
+```
+
 ## Technologies
 
 [React](https://reactjs.org/)
