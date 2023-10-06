@@ -4,6 +4,10 @@
 
 This is a DEMO simple banking application that allows users to create accounts, deposit, withdraw and transfer funds between accounts.
 
+####
+
+![docker image page](image-1.png)
+
 ## Docker Image
 
 To pull the docker image, run the following command and run manually on your machine
