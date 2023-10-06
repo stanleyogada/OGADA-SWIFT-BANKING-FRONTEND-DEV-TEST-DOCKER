@@ -62,5 +62,9 @@ docker-compose up
 6. To stop the application, run the following command
 
 ```bash
+[ctrl + c]
+```
+
+```bash
 docker-compose down
 ```
