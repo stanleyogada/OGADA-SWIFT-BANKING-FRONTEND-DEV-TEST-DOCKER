@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a DEMO simple banking application that allows users to create accounts, deposit, withdraw and transfer funds between accounts.
+This is a DEMO simple banking application that allows users to create accounts, deposit, withdraw, and transfer funds between accounts.
 
 ####
 
@@ -10,7 +10,7 @@ This is a DEMO simple banking application that allows users to create accounts, 
 
 ## Docker Image
 
-To pull the docker image, run the following command and run manually on your machine
+To pull the docker image, run the following command and run it manually on your machine
 
 ```bash
 docker pull chineduogada/ogada-swift-banking-frontend:1
